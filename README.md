@@ -4,9 +4,8 @@ Welcome to my Data Analysis Portfolio! This repository showcases the projects I'
 
 
 ---
+## Projects
 
-## SQL Projects
-
-### 1. **Toman Bike Share Analysis** [🔗](https://github.com/yourusername/toman-bike-share-analysis)
-   - **Tools:** MySQL, Power BI
-   - **Summary:** Analyzed hourly revenue, profit trends, and rider demographics. Recommended a pricing strategy based on demand patterns over 2021 and 2022 data.
+### 1. **Monday Coffee Sales Analysis** [🔗](https://github.com/yourusername/monday-coffee-sales-analysis)
+   - **Tools:** PostgreSQL, SQL, Data Visualization
+   - **Summary:** Analyzed sales data to recommend the top three cities in India for new coffee shop locations based on consumer demand and sales performance.
