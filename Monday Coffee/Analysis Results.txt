@@ -1,0 +1,17 @@
+Pune
+Advantages:
+- Lowest Average Rent per Customer: Indicates affordability and potential for higher profitability.
+- Highest Total Revenue: Suggests strong market demand and successful sales performance.
+- High Average Sales per Customer: Reflects customer loyalty and higher spending capacity.
+
+Delhi
+Advantages:
+- Largest Estimated Coffee Consumer Base (7.7 million): Offers significant market potential.
+- Second Highest Total Customers (68): Demonstrates good engagement and room for growth.
+- Reasonable Average Rent per Customer (330): Supports sustainable business operations.
+
+Jaipur
+Advantages:
+- Highest Customer Count (69): Indicates strong interest in coffee products.
+- Very Low Average Rent per Customer (156): Enhances profitability potential.
+- Better Average Sales per Customer (11k): Suggests strong customer spending.
