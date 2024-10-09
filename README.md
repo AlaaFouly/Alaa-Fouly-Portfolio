@@ -6,6 +6,6 @@ Welcome to my Data Analysis Portfolio! This repository showcases the projects I'
 ---
 ## Projects
 
-### 1. **Monday Coffee Sales Analysis** [🔗](https://github.com/yourusername/monday-coffee-sales-analysis)
+### 1. [Monday Coffee Sales Analysis](./Monday%20Coffee)
    - **Tools:** PostgreSQL, SQL, Data Visualization
    - **Summary:** Analyzed sales data to recommend the top three cities in India for new coffee shop locations based on consumer demand and sales performance.
