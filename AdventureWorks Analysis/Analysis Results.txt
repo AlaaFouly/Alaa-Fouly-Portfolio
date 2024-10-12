@@ -1,0 +1,9 @@
+Developed an interactive Power BI dashboard.
+Key performance metrics included:
+Revenue: $25 million
+Profit: $10 million
+Total Orders: 25,000
+Return Rate: 2.2%
+Identified Tires and Tubes as the most frequently requested products.
+Noted Shorts as the most frequently returned items.
+Top Customer: Maurice Shan, with contributions of $12.4K from six orders.
