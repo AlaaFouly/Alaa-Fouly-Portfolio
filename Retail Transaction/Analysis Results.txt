@@ -1,6 +1,6 @@
-## Key Insights
+-- Key Insights
 
-# Age Group Performance:
+- Age Group Performance:
 The 46 to 60 age group is the highest revenue-generating segment, contributing $147.88K. This suggests that middle-aged customers are your most valuable demographic.
 The Under 18 segment contributes the least at $11.22K, indicating either low engagement or spending power in this group.
 
