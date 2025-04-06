@@ -1,0 +1,83 @@
+
+Superstore Sales Dashboard – Key Insights Summary
+Data Coverage: 2020 to 2023 (~4 years)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Metrics (KPIs)
+
+- Total Sales: $2.33M
+- Total Profit: $292.30K
+- Profit Margin: 12.5%
+- % of Returned Orders: 5.79%
+- YoY Growth (2022 → 2023):
+  ▪️ Sales ↑ 17.66%
+  ▪️ Profit ↑ 13.82%
+  ▪️ Returned Orders ↓ 4.9% (positive trend)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. Sales Performance vs Previous Year
+
+Vertical Growth (Annual YoY Sales Change):
+
+- 2020 → 2021: Sales ↓ 4.45%, Profit ↑ 16.67%
+- 2021 → 2022: Sales ↑ 22.96%, Profit ↑ 24.97%
+- 2022 → 2023: Sales ↑ 17.66%, Profit ↑ 13.82%
+
+Horizontal Growth (Month-over-Month Observations):
+
+- Highest Growth Month: Feb 2021 — +62.18%
+- Lowest Performing Month: Mar 2021 — –42.41%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. Most Profitable Products
+
+Top 3 Most Profitable Products:
+
+1. Copiers — $65.09K (Technology)
+2. Phones — $45.05K (Technology)
+3. Accessories — $41.93K (Technology)
+
+Top 3 Loss-Making Products:
+
+1. Tables — –$17.75K (Furniture)
+2. Bookcases — –$3.63K (Furniture)
+3. Supplies — –$1.17K (Office Supplies)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. Location-Based Profitability
+
+- Highest Profit State: California — $76.38K
+- Lowest Profit State: Texas — –$25.73K
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. Sales by Segment
+
+Segment Breakdown:
+
+- Consumer:
+  ▪️ Sales: $1.17M
+  ▪️ Profit: $136.37K
+  ▪️ Return Rate: 11.26%
+
+- Corporate:
+  ▪️ Sales: $715.8K
+  ▪️ Profit: $94.25K
+  ▪️ Return Rate: 19.07%
+
+- Home Office:
+  ▪️ Sales: $440.07K
+  ▪️ Profit: $61.68K
+  ▪️ Return Rate: 31.79%
+
+Most Profitable Segment: Consumer
+Highest Sales Volume Segment: Consumer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Summary Takeaways
+
+- Consistent profit growth from 2021 to 2023.
+- Copiers and Phones are the top-performing products.
+- Tables and Bookcases are major loss drivers in the Furniture category.
+- California outperforms all other states, while Texas has the largest losses.
+- Consumer segment drives both highest revenue and profit, with a lower return rate than Corporate or Home Office.
+- Return rate improvement across all segments is a positive operational signal.
