@@ -21,3 +21,8 @@ Welcome to my Data Analysis Portfolio! This repository showcases the projects I'
 ### 4. [Retail Transaction Data Analysis](./Retail%20Transaction)
    - **Tools:** Excel, MySQL, PowerBI
    - **Summary:** Analyzed retail transaction data to uncover insights into customer demographics, product performance, and sales trends. The project aims to recommend strategies for targeting key customer segments and optimizing product offerings to achieve a 20% revenue increase over the next two quarters.
+
+
+### 5.[Superstore Sales Dashboard](./SuperStore%20Analysis)
+   - **Tools:** Excel, PostgreSQL, Power BI
+   - **Summary:** Analyzed four years of retail sales data to uncover key business insights, including sales trends, product performance, and customer segment profitability. The dashboard provides interactive visualizations for tracking sales performance, product profitability, return rates, and geographic performance, aimed at helping the company optimize inventory, marketing strategies, and decision-making processes.
